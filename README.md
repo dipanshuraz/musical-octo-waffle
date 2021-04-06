@@ -39,7 +39,7 @@ You will implement...
 ## Demo Link
 
 Open Here -
-[ **Demo Netlify** ](https://amazing-minsky-53cfda.netlify.app/)
+[ **Demo Netlify** ](https://fervent-thompson-737b09.netlify.app/)
 <br/>
 
 ### Tech / Stack:
